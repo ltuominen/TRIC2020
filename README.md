@@ -1,2 +1,1 @@
-# Simulations & Bayesin fit for the TRIC2020 competition 
-# TRIC2020
+# Simulations & Bayesian fit for the TRIC2020 competition 
